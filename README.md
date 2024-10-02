@@ -151,10 +151,3 @@ To customize the behavior of vector search and retrieval in the application, you
 - **Vector Search Request Configuration**: Adjust the search parameters used by `SearchRequest.defaults()` to fine-tune retrieval behavior.
 - **Template for Custom User Prompts**: Customize the default message or provide dynamic prompt generation.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contributing
-
-Feel free to submit issues or pull requests if you would like to contribute to the project.
